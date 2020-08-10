@@ -50,7 +50,7 @@ Need support using this package:-
 - [Basil Ndonga](https://www.linkedin.com/in/basil-ndonga/)
 
 
-If you wish to be added as a contributor to this project let us know.
+If you wish to be added as a contributor to this project let me know.
 
 
 ## Security
