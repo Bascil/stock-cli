@@ -23,21 +23,21 @@ sudo npm install -g .
    ```sh
     stocks -s KES
     ```
-    
+
   * OR
 
     ```sh
     stocks --search KES
     ```
 
-**Getting Help**
+## Getting Help
 
   * To get help use the -h flag as follows
 
   ```sh
     stocks -h
     ```
-**Get CLI Version**
+## Get CLI Version
 
   * Use the -v or --version flag to obtain the CLI version
 
