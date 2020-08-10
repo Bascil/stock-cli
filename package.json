@@ -1,0 +1,18 @@
+{
+  "name": "stock-cli",
+  "version": "1.0.0",
+  "description": "A CLI app that accepts currency as an argument and displays whether or not the currency is supported",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basil Ndonga",
+  "license": "ISC",
+  "bin": {
+    "stocks": "./bin/index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "request": "^2.88.2"
+  }
+}
