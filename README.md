@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This is a command line application that takes in currency (using ISO 4217 code) as an argument and displays whether or not the currency is supported in the application. This application is available on this [link](https://github.com/Bascil/stock-cli) 
+This is a command line application written in NodeJs that takes in currency (using ISO 4217 code) as an argument and displays whether or not the currency is supported in the application. This application is available on this [link](https://github.com/Bascil/stock-cli) 
  
 ## Installation
 * Clone this repository
@@ -21,28 +21,24 @@ This is a command line application that takes in currency (using ISO 4217 code) 
 ## Usage
   * Run the CLI application from your terminal.
 
-   ```sh
-    stocks -s KES  
-    ```
+    `stocks -s KES` 
+
   * OR
 
-    ```sh
-    stocks --search KES
-    ```
+    `stocks --search KES`
+   
 ## Getting Help
 
   * To get help use the -h flag as follows
 
-  ```sh
-    stocks -h
-    ```
+    `stocks -h`
+  
 ## Get CLI Version
 
   * Use the -v or --version flag to obtain the CLI version
 
-     ```sh
-    stocks -v
-    ```
+    `stocks -v`
+
 ## Support
 
 Need support using this package:-

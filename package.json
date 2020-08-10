@@ -1,7 +1,7 @@
 {
   "name": "stock-cli",
   "version": "1.0.0",
-  "description": "A CLI app that accepts currency as an argument and displays whether or not the currency is supported",
+  "description": "A  NodeJs CLI app that accepts currency as an argument and displays whether or not the currency is supported",
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
