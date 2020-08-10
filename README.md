@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This is a command line application that takes in currency (using ISO 4217 code) as an argument and displays whether or not the currency is supported in the application. This application is available on this [link](https://www.github.com)  i
+This is a command line application that takes in currency (using ISO 4217 code) as an argument and displays whether or not the currency is supported in the application. This application is available on this [link](https://github.com/Bascil/stock-cli) 
  
 ## Installation
 Clone this repository
@@ -23,7 +23,8 @@ sudo npm install -g .
    ```sh
     stocks -s KES
     ```
-    OR
+    
+  * OR
 
     ```sh
     stocks --search KES
