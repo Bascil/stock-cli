@@ -29,15 +29,19 @@ This is a command line application written in NodeJs that takes in currency (usi
    
 ## Getting Help
 
-  * To get help use the -h flag as follows
+  * To get help use the -h or --help flag as follows
 
     `stocks -h`
+
+  * OR
+
+    `stocks --help`
   
 ## Get CLI Version
 
-  * Use the -v or --version flag to obtain the CLI version
+  * Use the --version flag to obtain the CLI version
 
-    `stocks -v`
+    `stocks --version`
 
 ## Support
 
